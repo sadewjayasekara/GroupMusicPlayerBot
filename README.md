@@ -3,7 +3,7 @@
 ### A bot that can play music on telegram group's voice call
 
 <p align="center">
-  <img src="https://telegra.ph/file/210a6cf99422cdd2d2902.jpg">
+  <img src="">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -28,13 +28,13 @@
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Infinity-Bots/GroupMusicPlayerBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sadewjayasekara/GroupMusicPlayerBot/edit/Pro/README.md)
 
 Use [Repl Link](https://replit.com/@SpEcHiDe/GenerateStringSession) to get pyrogram string session
 
 ### Credits
-- [ImJanindu](https://github.com/ImJanindu): Dev
-- [InukaASiTH](https://github.com/InukaAsith): Dev
+- [ImJanindu](https://github.com/sadewjayasekara): Dev
+- [InukaASiTH](https://github.com/sadewjayasekara): Dev
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
-- [Infinity BOTs](https://t.me/Infinity_BOTs)
+- [Infinity BOTs](https://t.me/joingrouplk)
